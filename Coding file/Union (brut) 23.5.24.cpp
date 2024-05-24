@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#include <vector> 
 vector <int> union(vector <int> a, vector <int> b)
 int n1 = a.size();
 int n2 = b.size();
